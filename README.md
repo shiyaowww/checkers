@@ -8,4 +8,7 @@ The strategy board game of Checkers(a.k.a. Draughts)
 </div>
 
 #### capture move & game over
-![capture & gameover](gifs/capture%20move%20and%20game%20over.gif)
+
+<div align=center>
+  <img width="300" gifs/capture%20move%20and%20game%20over.gif"/>
+</div>
